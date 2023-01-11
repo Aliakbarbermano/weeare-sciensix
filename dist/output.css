@@ -636,10 +636,6 @@ video {
   aspect-ratio: 4/3;
 }
 
-.aspect-square {
-  aspect-ratio: 1 / 1;
-}
-
 .h-9 {
   height: 2.25rem;
 }
